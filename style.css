@@ -1,0 +1,40 @@
+.border {
+      font-family: oswald;
+      background-color: #ffff;
+      color: black;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 2px 2px 20px 4px #FFA500;
+    }
+
+.write {
+      font-family: oswald;
+      background-color: #ffff;
+      color: black;
+      padding: 3px;
+      border-radius: 2px;
+      box-shadow: 2px 2px 2px 2px #FFA500;
+    }
+
+textarea {
+  width: 80%;
+  height: 20px;
+  padding: 20px 20px;
+  box-sizing: border-box;
+  border: 2px solid #FFA500;
+  border-radius: 5px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+  outline: none;
+}
+button {
+  background-color: #FFA500;
+  border: none;
+  color: white;
+  padding: 10px 7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
